@@ -1,0 +1,13 @@
+# ignore all bin directories
+bin/
+
+# ignore all gen directories
+gen/
+
+# ignore all apt_generated directories
+.apt_generated/
+
+# ignore all files ending with
+*.properties
+.classpath
+.factorypath
