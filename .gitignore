@@ -8,6 +8,5 @@ gen/
 .apt_generated/
 
 # ignore all files ending with
-*.properties
 .classpath
 .factorypath
